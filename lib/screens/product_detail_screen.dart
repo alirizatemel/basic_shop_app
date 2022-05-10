@@ -1,5 +1,3 @@
-import 'dart:html';
-
 import 'package:flutter/material.dart';
 import '../providers/products.dart';
 import 'package:provider/provider.dart';
